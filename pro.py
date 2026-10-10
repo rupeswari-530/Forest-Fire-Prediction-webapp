@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ============================================================
 # FOREST FIRE PREDICTION USING MACHINE LEARNING
 # Dataset: Algerian Forest Fires Dataset
@@ -1708,4 +1708,4 @@ except ValueError:
 print("\n========================================")
 print("PROJECT COMPLETED")
 print("========================================")
->>>>>>> 9b960a5c00508f67c3aa14dfe155aa39c150eda6
+
